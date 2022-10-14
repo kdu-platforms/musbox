@@ -1,0 +1,14 @@
+.idea
+.dropbox
+.DS_Store
+/website/musbox*.js
+/website/musbox*.js.map
+/website/player/musbox*.js
+/website/player/musbox*.js.map
+/website/player/musbox*.js
+/website/player/musbox*.js.map
+/website/competition/**/musbox*.js
+/website/competition/**/musbox*.js.map
+/website/musbox_offline.html
+/build
+/node_modules
